@@ -41,3 +41,4 @@ https://research.nvidia.com/labs/dir/neuralangelo/
 https://arxiv.org/abs/2306.03092
 
 ## Output
+https://huggingface.co/camenduru/neuralangelo/tree/main/lego
