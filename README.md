@@ -10,6 +10,22 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/neuralangelo-colab/blob/main/neuralangelo_colab.ipynb) | neuralangelo_colab
 
+## Tutorial
+
+### Input
+https://github.com/camenduru/neuralangelo-colab/assets/54370274/196960fb-4828-483a-b2d1-9f31ee911e8a
+
+## Blender addon to inspect and preprocess COLMAP data for Neuralangelo
+
+https://github.com/mli0603/BlenderNeuralangelo
+
+https://github.com/camenduru/neuralangelo-colab/assets/54370274/9e4b267d-fdbf-410a-b269-0d9515d70d70
+
+## Output 15000 Steps
+![Screenshot 2023-08-23 145141](https://github.com/camenduru/neuralangelo-colab/assets/54370274/ceb33c77-777c-4664-9339-f837dd13670e)
+
+![Screenshot 2023-08-23 155327](https://github.com/camenduru/neuralangelo-colab/assets/54370274/a89d4ff5-045c-4635-ba2b-fcc80b79d3b1)
+
 ## Main Repo
 https://github.com/NVlabs/neuralangelo
 
