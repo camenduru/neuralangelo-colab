@@ -15,7 +15,7 @@
 ### Input
 https://github.com/camenduru/neuralangelo-colab/assets/54370274/196960fb-4828-483a-b2d1-9f31ee911e8a
 
-## Blender addon to inspect and preprocess COLMAP data for Neuralangelo
+## Blender addon to inspect and preprocess COLMAP data for Neuralangelo (Optional)
 
 https://github.com/mli0603/BlenderNeuralangelo
 
