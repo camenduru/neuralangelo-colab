@@ -26,6 +26,11 @@ https://github.com/camenduru/neuralangelo-colab/assets/54370274/9e4b267d-fdbf-41
 
 ![Screenshot 2023-08-23 155327](https://github.com/camenduru/neuralangelo-colab/assets/54370274/a89d4ff5-045c-4635-ba2b-fcc80b79d3b1)
 
+## Output 25000 Steps
+![Screenshot 2023-08-23 220938](https://github.com/camenduru/neuralangelo-colab/assets/54370274/a4661cf3-4f0e-462a-b6dd-448373ab7662)
+
+![Screenshot 2023-08-23 220825](https://github.com/camenduru/neuralangelo-colab/assets/54370274/80cb4c97-1fcc-4f33-837a-85c6496bc2d0)
+
 ## Main Repo
 https://github.com/NVlabs/neuralangelo
 
