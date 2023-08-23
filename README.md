@@ -31,6 +31,9 @@ https://github.com/camenduru/neuralangelo-colab/assets/54370274/9e4b267d-fdbf-41
 
 ![Screenshot 2023-08-23 220825](https://github.com/camenduru/neuralangelo-colab/assets/54370274/80cb4c97-1fcc-4f33-837a-85c6496bc2d0)
 
+## Training Video (25000 Steps)
+https://www.youtube.com/watch?v=yZokUyHaOb0
+
 ## Main Repo
 https://github.com/NVlabs/neuralangelo
 
