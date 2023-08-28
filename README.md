@@ -22,17 +22,20 @@ https://github.com/mli0603/BlenderNeuralangelo
 
 https://github.com/camenduru/neuralangelo-colab/assets/54370274/9e4b267d-fdbf-410a-b269-0d9515d70d70
 
-## Output 15000 Steps
+## Output 20000 Steps (NEW CODE)
+![Screenshot 2023-08-28 234718](https://github.com/camenduru/neuralangelo-colab/assets/54370274/7821c45d-072d-4a92-b5e2-9c9fcb68adb2)
+
+## Output 15000 Steps (OLD CODE)
 ![Screenshot 2023-08-23 145141](https://github.com/camenduru/neuralangelo-colab/assets/54370274/ceb33c77-777c-4664-9339-f837dd13670e)
 
 ![Screenshot 2023-08-23 155327](https://github.com/camenduru/neuralangelo-colab/assets/54370274/a89d4ff5-045c-4635-ba2b-fcc80b79d3b1)
 
-## Output 25000 Steps
+## Output 25000 Steps (OLD CODE)
 ![Screenshot 2023-08-23 220938](https://github.com/camenduru/neuralangelo-colab/assets/54370274/a4661cf3-4f0e-462a-b6dd-448373ab7662)
 
 ![Screenshot 2023-08-23 220825](https://github.com/camenduru/neuralangelo-colab/assets/54370274/80cb4c97-1fcc-4f33-837a-85c6496bc2d0)
 
-## Training Video (25000 Steps)
+## Training Video (25000 Steps) (OLD CODE)
 https://www.youtube.com/watch?v=yZokUyHaOb0
 
 ## Main Repo
